@@ -1,0 +1,8 @@
+{
+  "Name": "anonimage.net",
+  "DestinationType": "ImageUploader",
+  "RequestType": "POST",
+  "RequestURL": "https://anonimage.net/upload_magick.php",
+  "FileFormName": "imgulfile[]",
+  "ResponseType": "RedirectionURL"
+}
